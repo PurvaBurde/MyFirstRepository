@@ -6,6 +6,9 @@ public class sample_class {
 		// TODO Auto-generated method stub
 
 		System.out.println("this is sample class of sampleProject2");
+		
+		System.out.println("Happy Holi");
 	}
+	
 
 }
