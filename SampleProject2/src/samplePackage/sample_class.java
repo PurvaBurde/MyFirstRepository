@@ -8,6 +8,8 @@ public class sample_class {
 		System.out.println("this is sample class of sampleProject2");
 		
 		System.out.println("Happy Holi");
+		
+		System.out.println("Same to You");
 	}
 	
 
